@@ -11,6 +11,6 @@ Este repositório está organizado do seguinte modo:
 - testing: casos de teste, scripts de teste, massa de dados
 - cm: documento de gerência de configuração do projeto
 
-#Alunas:
+# Alunas:
  - Edicarla Silva
  - Monira Silva
